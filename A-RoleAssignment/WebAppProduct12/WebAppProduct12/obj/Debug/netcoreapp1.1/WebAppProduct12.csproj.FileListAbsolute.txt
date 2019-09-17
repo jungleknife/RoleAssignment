@@ -1,0 +1,47 @@
+E:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.deps.json
+E:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.runtimeconfig.json
+E:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.runtimeconfig.dev.json
+E:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.dll
+E:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.pdb
+E:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.csprojResolveAssemblyReference.cache
+E:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.csproj.CoreCompileInputs.cache
+E:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+E:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.AssemblyInfo.cs
+E:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.dll
+E:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.pdb
+F:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.deps.json
+F:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.runtimeconfig.json
+F:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.runtimeconfig.dev.json
+F:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.dll
+F:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.pdb
+F:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.csprojResolveAssemblyReference.cache
+F:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.csproj.CoreCompileInputs.cache
+F:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+F:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.AssemblyInfoInputs.cache
+F:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.AssemblyInfo.cs
+F:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.dll
+F:\WebAppDev_wk2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.pdb
+C:\Users\meldo\Desktop\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.deps.json
+C:\Users\meldo\Desktop\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.runtimeconfig.json
+C:\Users\meldo\Desktop\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.runtimeconfig.dev.json
+C:\Users\meldo\Desktop\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.dll
+C:\Users\meldo\Desktop\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.pdb
+C:\Users\meldo\Desktop\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.csprojResolveAssemblyReference.cache
+C:\Users\meldo\Desktop\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.csproj.CoreCompileInputs.cache
+C:\Users\meldo\Desktop\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\meldo\Desktop\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.AssemblyInfoInputs.cache
+C:\Users\meldo\Desktop\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.AssemblyInfo.cs
+C:\Users\meldo\Desktop\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.dll
+C:\Users\meldo\Desktop\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.pdb
+E:\AA-Summer 2019\WAD-Summer\Today-Wk02\Roles-goWithWordDoc\TestBed2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.deps.json
+E:\AA-Summer 2019\WAD-Summer\Today-Wk02\Roles-goWithWordDoc\TestBed2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.runtimeconfig.json
+E:\AA-Summer 2019\WAD-Summer\Today-Wk02\Roles-goWithWordDoc\TestBed2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.runtimeconfig.dev.json
+E:\AA-Summer 2019\WAD-Summer\Today-Wk02\Roles-goWithWordDoc\TestBed2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.dll
+E:\AA-Summer 2019\WAD-Summer\Today-Wk02\Roles-goWithWordDoc\TestBed2\WebAppProduct12\WebAppProduct12\bin\Debug\netcoreapp1.1\WebAppProduct12.pdb
+E:\AA-Summer 2019\WAD-Summer\Today-Wk02\Roles-goWithWordDoc\TestBed2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.csprojAssemblyReference.cache
+E:\AA-Summer 2019\WAD-Summer\Today-Wk02\Roles-goWithWordDoc\TestBed2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.csproj.CoreCompileInputs.cache
+E:\AA-Summer 2019\WAD-Summer\Today-Wk02\Roles-goWithWordDoc\TestBed2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+E:\AA-Summer 2019\WAD-Summer\Today-Wk02\Roles-goWithWordDoc\TestBed2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.AssemblyInfoInputs.cache
+E:\AA-Summer 2019\WAD-Summer\Today-Wk02\Roles-goWithWordDoc\TestBed2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.AssemblyInfo.cs
+E:\AA-Summer 2019\WAD-Summer\Today-Wk02\Roles-goWithWordDoc\TestBed2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.dll
+E:\AA-Summer 2019\WAD-Summer\Today-Wk02\Roles-goWithWordDoc\TestBed2\WebAppProduct12\WebAppProduct12\obj\Debug\netcoreapp1.1\WebAppProduct12.pdb

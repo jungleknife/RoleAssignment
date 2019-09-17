@@ -1,0 +1,3 @@
+﻿select Email from AspNetUsers
+join product on AspNetUsers.id = product.OwnerID
+where ProductID = ... 
